@@ -105,6 +105,22 @@ View your comprehensive study tracker at `/progress/cfp-study-tracker.md` to see
 
 All materials have been thoroughly mapped to the 73 CFP exam topics.
 
+## Free Study Resources
+
+In addition to the Dalton Review materials, here are some excellent **free resources** that can supplement your CFP exam prep:
+
+**Podcasts & Audio:**
+- [Open Exam Prep Podcast](https://open.spotify.com/show/55EmWfdtPaK641q4Rk3mI1) - Free CFP exam prep podcast on Spotify
+- [Financial Planning Essentials Playlist](https://open.spotify.com/playlist/6GUIZvnpaiOiYmXkanqwZ8) - Study music playlist on Spotify
+
+**Video Content:**
+- [Open Exam Prep YouTube](https://www.youtube.com/@Open-exam-prep) - Free video content covering CFP exam topics
+
+**Website:**
+- [open-exam-prep.com](https://open-exam-prep.com/) - Additional free resources and study materials
+
+These free resources are great for passive learning during commutes, workouts, or downtime.
+
 ## Key Features
 
 **Personalized Learning**:
